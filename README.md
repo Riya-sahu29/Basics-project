@@ -1,4 +1,2 @@
 # demo
-This is my first Git Repository.
-<br>
-Author - Riya sahu(student)
+It's just the childhood fun game.
